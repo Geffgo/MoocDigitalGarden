@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/10022-guide-d-installation-https-tls/"}
 ---
 
-# Fiche d'Installation TLS 
+# Guide d'installation TLS 
 # Fiches Liées
 - [[Accueil\|Accueil]]
 - [[10020 HTTP et HTTPS\|10020 HTTP et HTTPS]]
