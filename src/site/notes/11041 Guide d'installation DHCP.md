@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/11041-guide-d-installation-dhcp/"}
 ---
 
-# Fiche Technique - Installation Serveur DHCP
+# Guide d'installation Serveur DHCP
 # Fiches Liées
 - [[Accueil\|Accueil]]
 - [[11040 DHCP\|11040 DHCP]]
