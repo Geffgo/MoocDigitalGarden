@@ -4,7 +4,7 @@
 
 # Fiche Réseau : Modèles OSI et TCP/IP
 # Fiches Liées
-- [[Accueil\|Accueil]]
+-  [[Accueil\|Accueil]]
 ---
 ## COMPARAISON DES MODÈLES
 
