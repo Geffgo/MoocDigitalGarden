@@ -43,41 +43,8 @@
 | Outils de Surveillance ⏳  | Performance et Optimisation ⏳ |
 | Virtualisation et Cloud ⏳ |                               |
 
-
-### 📊 Méthodologie et Outils
-
-- **[Fiche 033]** Méthodes de Dépannage ⏳
-    
-    - Approche systématique
-    - Outils de diagnostic
-    - Documentation des solutions
-- **[Fiche 034]** Outils de Surveillance ⏳
-    
-    - Wireshark, tcpdump
-    - Nagios, Zabbix
-    - Dashboards et alertes
-- **[Fiche 035]** Virtualisation et Cloud ⏳
-    
-    - Hyperviseurs
-    - Conteneurs (Docker)
-    - Services cloud (AWS, Azure)
-
-### 🔬 Concepts Avancés
-
-- **[Fiche 036]** Performance et Optimisation ⏳
-    
-    - Goulots d'étranglement
-    - Tuning système/réseau
-    - Benchmarking
-- **[Fiche 037]** Protocoles Émergents ⏳
-    
-    - IPv6 en détail
-    - HTTP/3 et QUIC
-    - Technologies 5G
-
 ---
-
-## 🎖️ CERTIFICATIONS COUVERTES
+##  CERTIFICATIONS COUVERTES
 
 ### Réseau
 
